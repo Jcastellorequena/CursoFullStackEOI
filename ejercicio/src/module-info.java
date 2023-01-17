@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jaimi
- *
- */
-module ejercicio {
- }
