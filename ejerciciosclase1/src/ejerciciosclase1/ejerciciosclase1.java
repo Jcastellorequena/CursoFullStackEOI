@@ -79,6 +79,21 @@ public class ejerciciosclase1 {
 		System.out.println("D toma el valor de B ->B =  " + auxB );//2
 		
 	}
+	
+	public static void ejercicio7() {
+		char letra1= 'b';
+		char letra2= 'k';
+		System.out.println((int)letra1);
+		System.out.println((int)letra2);
+		System.out.println("La diferencia entre b y k :"+ ((int)letra2 -(int)letra1));
+		
+		
+		
+		
+		
+		
+	}
+	
 	public static void ejercicios8() {
 	int a=5;
 	int b=++a;
@@ -126,7 +141,8 @@ public class ejerciciosclase1 {
 		// ejercicio6();
 		//ejercicios8();
 		//ejercicio9();
-		 ejercicio10();
+		ejercicio7(); 
+		 //ejercicio10();
 	}
 	
 
