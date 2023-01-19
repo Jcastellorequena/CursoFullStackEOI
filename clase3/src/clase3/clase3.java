@@ -310,6 +310,7 @@ public class clase3 {
 		cs.close();  // cerrar el Scanner
 	}
 	
+	
 	public static void main(String[] args) {
 		//ejemplosComentarios();
 		//ejemplosTipos1();

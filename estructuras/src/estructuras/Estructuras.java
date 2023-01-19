@@ -117,7 +117,7 @@ public class Estructuras {
 		 // ejemploIfElse();
 		 //ejemploIfElseIfElse();
 		 //ejemploSwitch();
-		ejemploTernarias();
+		//ejemploTernarias();
 		
 	}
 
